@@ -1,6 +1,11 @@
 # gestao-convidados-festa
 Repositório base para um Sistema de Gestão de Convidados
 
+A ideia é que os alunos façam _fork_ deste repositório e criem suas próprias versões do sistema de convidados.
+
+-------------------------------------------------------------------------------------------------------
+
+## Requisitos
 
 Nossa aplicação serve para gerir os convidados em uma festa. 
 Solicitamos o nome do convidado principal e a quantidade de acompanhantes que vêm com ele.
